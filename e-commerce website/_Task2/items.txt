@@ -1,0 +1,31 @@
+Apple,18.00,image\A.jpg,5
+Banana,22.00,image\b.jpg,10
+strewberry,25.00,image\Sb.jpg,5
+watermelon,60.00,image\W.jpg,20
+Kiwi fruit each,3.50,image\k.jpg,6
+Beef chuck per Kg,94.99,image\Ch.jpg,50
+Beef Oxtail per Kg,99.99,image\ox.jpg,30
+Beef Mince per Kg,65.99,image\mm.jpg,10
+Pork Cabanossi  per Kg,280.99,image\kb.jpg,5
+Beef Boerewors  per Kg,99.99,image\bw.jpg,15
+Carrots per Kg,19.00,image\C.jpg,6
+Onion per Kg,49.99,image\o.jpg,6
+Potatoes per Kg,44.16,image\p.jpg,6
+Broccoli per Kg,34.00,image\Bb.jpg,6
+Cucumber each,12.50,image\Cc.jpg,6
+Ostrich biltong,360.00,image\A.jpg,16
+Firelighters,29.00,image\b.jpg,10
+Charcoal,50.00,image\Sb.jpg,5
+Oranges,60.00,image\W.jpg,20
+Grapes,13.50,image\k.jpg,6
+Sixgun spice,94.99,image\Ch.jpg,50
+Switch energy drink,12.00,image\ox.jpg,30
+Mofaya energy drink,9.99,image\mm.jpg,10
+Dragon energy drink,10.00,image\kb.jpg,5
+Coke 2L,24.99,image\bw.jpg,15
+Avacado,20.00,image\C.jpg,6
+Pear fruit,22.99,image\o.jpg,6
+Mango,50.00,image\p.jpg,6
+Chicken feets,24.00,image\Bb.jpg,6
+Chicken necks,22.50,image\Cc.jpg,6
+

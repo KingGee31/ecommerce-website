@@ -1,0 +1,15 @@
+Apple,18.00,images\\A.jpg
+Banana,22.00,images\\b.jpg
+strewberry,25.00,images\\Sb.jpg
+watermelon,60.00,images\\W.jpg
+Kiwi fruit each,3.50,images\\k.jpg
+Beef chuck per Kg,94.99,images\\Ch.jpg
+Beef Oxtail per Kg,99.99,images\\ox.jpg
+Beef Mince per Kg,65.99,images\\mm.jpg
+Pork Cabanossi  per Kg,280.99,images\\kb.jpg
+Beef Boerewors  per Kg,99.99,images\\bw.jpg
+Carrots per Kg,19.00,images\\C.jpg
+Onion per Kg,49.99,images\\o.jpg
+Potatoes per Kg,44.16,images\\p.jpg
+Broccoli per Kg,34.00,images\\Bb.jpg
+Cucumber each,12.50,images\\Cc.jpg
